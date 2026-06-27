@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vergessene Worte
+
+This log tracks the cryptographic history and versioning for the song **Vergessene Worte** (vergessene-worte).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T23:42:43.211890 | `v1` | `e17b3c07747fe8a39abfca8aaa962b62897500407296d8929932a50a9474f39a` | `67b1ed6937a784d8db490f9f1b42da67b440954e1ea6aa0676b2f1468da138e8` | `2026-06-27_vergessene-worte-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
