@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vergessene-worte/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Vergessene Worte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergessene-worte/) |
+| **Get License** | [Get License For Vergessene Worte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergessene-worte/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight Vibe, Babe, die Skyline in Neonlicht
+> Du schaust mich an und ich seh' nur noch dein Gesicht
+> Dein Lipgloss glänzt, meine Hand fest auf dei'm Bein
+> Vergess' die Welt da draußen, wir tauchen jetzt ein
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
